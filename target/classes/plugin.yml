@@ -1,0 +1,8 @@
+name: WhoWas
+main: com.mdc.whowas.WhoWas
+version: 1.0
+author: milesmcc
+commands:
+  whowas:
+    usage: /<command> <username>
+    description: check the username history of <username>
